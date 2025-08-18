@@ -55,8 +55,8 @@ Este projeto implementa uma **pipeline completa de ciência de dados** para prev
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/everton754/TelecomX-Churn-Analytics.git
-   cd TelecomX-Churn-Analytics
+   git clone https://github.com/everton754/TelecomX_2.git
+   cd TelecomX_2
    ```
 
 2. Crie e ative um ambiente virtual (opcional):  
